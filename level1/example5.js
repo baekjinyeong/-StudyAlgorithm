@@ -13,7 +13,7 @@ s에 'p'의 개수와 'y'의 개수를 비교해 같으면 True, 다르면 False
 */
 
 /* 내 풀이 */
-
+// 1.
 function solution(s){
 	var strings = s.toLowerCase();
 	var answer = false;
@@ -26,6 +26,15 @@ function solution(s){
 	return answer;
 }
 
+// 2.
+function solution(s){
+
+	var strings = s.toLowerCase();
+	var strP = (strings.split('p'));
+	var strY = (strings.split('y'));
+
+	return (strP.length === strY.length) ? true : false;
+}
 
 /* 다른사람 풀이 */
 
