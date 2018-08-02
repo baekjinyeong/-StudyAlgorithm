@@ -26,6 +26,21 @@ function solution(s) {
 	return arr.join('');
 }
 
+// 2.
+function solution(s) {
+	const arr = [];
+	for(const i = 0; i < s.length; i++) {
+		arr.push(s[i]);
+	}
+
+	return arr.sort((a,b) => {
+		if (a > b) return -1;
+		if (b > a) return 1;
+		return 0;
+	}).join('');
+}
+
+
 /* 다른사람 풀이 */
 
 function solution(s) {
