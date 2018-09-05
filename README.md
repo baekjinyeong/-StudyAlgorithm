@@ -15,3 +15,4 @@
 - [수박수박수박수박수박수?](https://github.com/baekjinyeong/StudyAlgorithm/blob/master/level1/example9.js)
 - [문자열을 정수로 바꾸기](https://github.com/baekjinyeong/StudyAlgorithm/blob/master/level1/example10.js)
 - [평균 구하기](https://github.com/baekjinyeong/StudyAlgorithm/blob/master/level1/example11.js)
+- [약수의 합](https://github.com/baekjinyeong/StudyAlgorithm/blob/master/level1/example12.js)
