@@ -16,3 +16,4 @@
 - [문자열을 정수로 바꾸기](https://github.com/baekjinyeong/StudyAlgorithm/blob/master/level1/example10.js)
 - [평균 구하기](https://github.com/baekjinyeong/StudyAlgorithm/blob/master/level1/example11.js)
 - [약수의 합](https://github.com/baekjinyeong/StudyAlgorithm/blob/master/level1/example12.js)
+- [문자열 내 마음대로 정렬하기](https://github.com/baekjinyeong/StudyAlgorithm/blob/master/level1/example13.js)
